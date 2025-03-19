@@ -101,7 +101,7 @@
           <mxGeometry y="114" width="140" height="36" as="geometry" />
         </mxCell>
         <mxCell id="1xwBwhVuU44Af1zx4qzp-42" value="Транспортные рейсы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-150" width="140" height="197" as="geometry" />
+          <mxGeometry x="150" y="-150" width="140" height="171" as="geometry" />
         </mxCell>
         <mxCell id="1xwBwhVuU44Af1zx4qzp-43" value="ID INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1xwBwhVuU44Af1zx4qzp-42">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -117,9 +117,6 @@
         </mxCell>
         <mxCell id="1xwBwhVuU44Af1zx4qzp-48" value="Статус BOOL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1xwBwhVuU44Af1zx4qzp-42">
           <mxGeometry y="145" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="1xwBwhVuU44Af1zx4qzp-68" value="ID_риска" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1xwBwhVuU44Af1zx4qzp-42">
-          <mxGeometry y="171" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1xwBwhVuU44Af1zx4qzp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1xwBwhVuU44Af1zx4qzp-15" target="1xwBwhVuU44Af1zx4qzp-8">
           <mxGeometry relative="1" as="geometry" />
